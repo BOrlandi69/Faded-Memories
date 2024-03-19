@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 47aab1dfdf6bc9a438c5acdb160e3e99
+  productGUID: f571ec0355dba4a43824d0bb5fb747e8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: prototipo memories
+  productName: Faded Memories Proto
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -629,14 +629,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: prototipo memories
+  metroPackageName: Faded Memories Proto
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: prototipo memories
+  metroApplicationDescription: Faded Memories Proto
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -704,10 +704,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: debe89ed-7f1c-4c5a-9afc-c6d5a4cb614a
+  cloudProjectId: 6eb63033-6fff-4d2b-bee4-4e26931d88e9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: prototipo memories
+  projectName: Faded Memories Proto
   organizationId: xion_faq
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
